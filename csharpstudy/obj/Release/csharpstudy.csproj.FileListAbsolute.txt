@@ -1,4 +1,0 @@
-D:\2016静源工作室\vs2015_projects\csharpstudy\csharpstudy\obj\Release\csharpstudy.Form1.resources
-D:\2016静源工作室\vs2015_projects\csharpstudy\csharpstudy\obj\Release\csharpstudy.Properties.Resources.resources
-D:\2016静源工作室\vs2015_projects\csharpstudy\csharpstudy\obj\Release\csharpstudy.testform.resources
-D:\2016静源工作室\vs2015_projects\csharpstudy\csharpstudy\obj\Release\csharpstudy.csproj.GenerateResource.Cache
