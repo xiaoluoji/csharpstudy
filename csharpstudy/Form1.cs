@@ -14,6 +14,7 @@ using System.Threading;
 using System.Runtime.Remoting.Messaging;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+using System.Runtime.InteropServices;
 using System.Xml.Serialization;
 using System.Text.RegularExpressions;
 using System.Drawing.Drawing2D;
@@ -1532,6 +1533,9 @@ namespace csharpstudy
             textBox1.AppendText(thumbUrl);
             */
             //Thread.Sleep(500);
+            IntPtr test1 = (IntPtr)1;
+            int test =  System.Runtime.InteropServices.Marshal.SizeOf(test1);
+            textBox1.Text = test.ToString();
         }
         public string GetHtml(string strUrl)
         {
